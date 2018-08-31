@@ -1,0 +1,1 @@
+This script can be use to extract individual points from inside the database (sqlite) and convert these values to a CSV. This also takes care of the timestamp and converts them to a local time stamp from UTC
